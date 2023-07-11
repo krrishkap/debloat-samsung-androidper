@@ -5,20 +5,12 @@ pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.venezia
 pm uninstall -k --user 0 com.android.backupconfirm
 pm uninstall -k --user 0 com.android.bips
-pm uninstall -k --user 0 com.android.chrome
-pm uninstall -k --user 0 com.android.dreams.basic
-pm uninstall -k --user 0 com.android.dreams.phototable
-pm uninstall -k --user 0 com.android.dreams.phototable
-pm uninstall -k --user 0 com.android.email
 pm uninstall -k --user 0 com.android.exchange
 pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle
 pm uninstall -k --user 0 com.android.printspooler
 pm uninstall -k --user 0 com.android.providers.partnerbookmarks
 pm uninstall -k --user 0 com.android.providers.userdictionary
 pm uninstall -k --user 0 com.android.sharedstoragebackup
-pm uninstall -k --user 0 com.android.stk
-pm uninstall -k --user 0 com.android.wallpaper.livepicker
-pm uninstall -k --user 0 com.android.wallpapercropper
 pm uninstall -k --user 0 com.audible.application
 pm uninstall -k --user 0 com.blurb.checkout
 pm uninstall -k --user 0 com.cequint.ecid
@@ -43,13 +35,9 @@ pm uninstall -k --user 0 com.google.android.apps.plus
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.apps.youtube.music
-pm uninstall -k --user 0 com.google.android.gm
 pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 pm uninstall -k --user 0 com.google.android.printservice.recommendation
 pm uninstall -k --user 0 com.google.android.talk
-pm uninstall -k --user 0 com.google.android.tts
-pm uninstall -k --user 0 com.google.android.videos
-pm uninstall -k --user 0 com.google.android.videos
 pm uninstall -k --user 0 com.google.android.youtube
 pm uninstall -k --user 0 com.google.ar.core
 pm uninstall -k --user 0 com.google.vr.vrcore
@@ -71,11 +59,9 @@ pm uninstall -k --user 0 com.monotype.android.font.chococooky
 pm uninstall -k --user 0 com.monotype.android.font.cooljazz
 pm uninstall -k --user 0 com.monotype.android.font.foundation
 pm uninstall -k --user 0 com.monotype.android.font.rosemary
-pm uninstall -k --user 0 com.netflix.mediaclient
 pm uninstall -k --user 0 com.nuance.swype.input
 pm uninstall -k --user 0 com.osp.app.signin
 pm uninstall -k --user 0 com.policydm
-pm uninstall -k --user 0 com.samsung.SMT
 pm uninstall -k --user 0 com.samsung.aasaservice
 pm uninstall -k --user 0 com.samsung.android.aircommandmanager
 pm uninstall -k --user 0 com.samsung.android.allshare.service.fileshare
@@ -238,7 +224,6 @@ pm uninstall -k --user 0 com.sec.android.app.sbrowser
 pm uninstall -k --user 0 com.sec.android.app.servicemodeapp
 pm uninstall -k --user 0 com.sec.android.app.shealth
 pm uninstall -k --user 0 com.sec.android.app.shealth
-pm uninstall -k --user 0 com.sec.android.app.soundalive
 pm uninstall -k --user 0 com.sec.android.app.sysscope
 pm uninstall -k --user 0 com.sec.android.app.tfunlock
 pm uninstall -k --user 0 com.sec.android.app.tourviewer
@@ -316,5 +301,3 @@ pm uninstall -k --user 0 com.tv.peel.samsung.app
 pm uninstall -k --user 0 com.vlingo.midas
 pm uninstall -k --user 0 com.wssnps
 pm uninstall -k --user 0 com.yelp.android.samsungedge
-
-# pm uninstall -k --user 0 com.samsung.android.lool
